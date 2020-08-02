@@ -1,1 +1,1 @@
-This is a ONGOING PROJECT.
+This is an ONGOING PROJECT.
