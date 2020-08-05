@@ -1,0 +1,79 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Oxygen', sans-serif;
+}
+header{
+    background-color: black;
+    align-items: center;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.links{
+    
+}
+.links a{
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(109, 105, 105);
+    text-decoration: none;
+    padding: 10px;
+    text-transform: uppercase;
+}
+.links a:hover{
+    color: rgb(236, 232, 232);
+    font-size: 16px;
+}
+#name{
+    color: white;
+    font-size: 25px;
+    margin: 10px;
+}
+.icons{
+    display: flex;
+}
+.icons a{
+    text-align: center;
+    padding: 15px;
+}
+#github{
+    color: rgb(109, 105, 105);
+    width: 30px;
+    height: 30px;
+}
+#github:hover{
+    color: rgb(236, 232, 232);
+}
+#instagram{
+    color: rgb(109, 105, 105);
+    width: 30px;
+    height: 30px;
+}
+#instagram:hover{
+    color: rgb(236, 232, 232);
+}
+#linkedin{
+    color: rgb(109, 105, 105);
+    width: 30px;
+    height: 30px;
+}
+#linkedin:hover{
+    color: rgb(236, 232, 232);
+}
+#facebook{
+    color: rgb(109, 105, 105);
+    width: 30px;
+    height: 30px;
+}
+#facebook:hover{
+    color: rgb(236, 232, 232);
+}
+#twitter{
+    color: rgb(109, 105, 105);
+    width: 30px;
+    height: 30px;
+}
+#twitter:hover{
+    color: rgb(236, 232, 232);
+}
