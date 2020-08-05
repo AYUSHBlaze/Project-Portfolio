@@ -128,3 +128,9 @@ body{
 #twitter:hover {
     color: black;
 }
+#lay{
+    text-align: center;
+    height: 400px;
+    width: 400px;
+    margin-left: 450px;
+}
